@@ -1,4 +1,4 @@
-# Plan local d'urbanisme
+# Plan local d'urbanisme (PLU)
 
 ## Description
 La [documentation du standard](https://cnig.gouv.fr/IMG/pdf/230112_standard_cnig_plu_v2022-10.pdf) est disponible ici.
