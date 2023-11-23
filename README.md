@@ -1,6 +1,6 @@
 # Plan local d'urbanisme (PLU)
 
-## Description
+## Descriptions
 
 Le [géostandard CNIG PLU](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html) définit le contenu et la structure des informations de description des PLU et PLU intercommunaux (PLUi).
 
