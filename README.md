@@ -31,7 +31,7 @@ Le périmètre du modèle conceptuel de données englobe les notions relatives a
 - construire une mémoire collective et pérenne
   - retracer l'historique des procédures d'urbanisme successives
   - faciliter la gestion et le suivi des PLU par les autorités compétentes
-- alimenter tous types de systèmes dinformation (ménagement du territoitre, artificialisation des sols, sobriété foncière, etc.) exploitant les infomrations d'urbanisme.
+- alimenter tous types de systèmes d'information (aménagement du territoitre, artificialisation des sols, sobriété foncière, etc.) exploitant les informations d'urbanisme.
 
 Afin d’optimiser les processus de production et de minimiser les écarts géométriques et descriptifs entre versions « papier » et dématérialisée du PLU, le CNIG recommande que la production de la version dématérialisée par numérisation des documents papier soit désormais remplacée par une élaboration directement sous forme numérique, permettant ensuite l’impression papier à partir de ces éléments numériques.
 
