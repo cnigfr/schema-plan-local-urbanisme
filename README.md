@@ -35,6 +35,33 @@ Le périmètre du modèle conceptuel de données englobe les notions relatives a
 
 Afin d’optimiser les processus de production et de minimiser les écarts géométriques et descriptifs entre versions « papier » et dématérialisée du PLU, le CNIG recommande que la production de la version dématérialisée par numérisation des documents papier soit désormais remplacée par une élaboration directement sous forme numérique, permettant ensuite l’impression papier à partir de ces éléments numériques.
 
+## Organisation du Github
+
+> C'est en construction !!
+
+* Le répertoire documentation contient les documents utiles au groupe de travail.
+* Le répertoire réunions contient les documents de suivi du groupe de travail
+* Le répertoire standard contient la version courante du standard CNIG PLU
+
+## Actualisation et contributions
+
+Le standard CNIG PLU évolue en fonction des évolutions réglementaires et de l'expression des besoins des communautés d'utilisateurs.
+
+N'hésitez pas à utiliser la rubrique [Issues](https://github.com/cnigfr/schema-plan-local-urbanisme/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard Friches, retour utilisateur, etc.
+
+## Licence - OpenData
+
+Les travaux du GT CNIG DDU sont réalisés sous [Licence Ouverte Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+
+Les données d’urbanisme sont ouvertes et publiées sur le [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/).
+
+## Contact
+Pour contacter le GT CNIG DDU : cnig [at] cnig.fr
+
+Pour être tenu au courant et/ou participer aux échanges du GT CNIG DDU, merci de [contacter le CNIG](https://cnig.gouv.fr/).
+
+Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
+
 ## Versions
 - v2022 - octobre 2022 : 2.0.0
 - v2017d - février 2021 : 1.3.0
