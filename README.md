@@ -41,22 +41,25 @@ Le Groupe de travail "Dématérialisation des documents d’urbanisme" (GT CNIG 
 
 Son fonctionnement est régi par ce [mandat du CNIG](https://cnig.gouv.fr/IMG/pdf/180702_mandat_gt_ddu_cnig.pdf).
 
-Il est piloté par la Direction générale à l'aménagement le logement et la nature (DGALN) du Ministère de la transition écologique. Il est animé par le CEREMA.
+Il est piloté par la Direction générale à l'aménagement le logement et la nature (DGALN) du Ministère de la transition écologique. Il est animé par le CEREMA, par **@GT-CNIG-DDU**
 
+Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique spécifique :
+- **SG1 : Suivi et prise en compte des évolutions de l'urbanisme. Relations avec le projet GPU.** Sous-goupe est animé par DGALN/DHUP/QV/QV3 : Bureau de la planification urbaine et rurale et du cadre de vie
+- SG2 : Dématérialisation des Plans de sauvegarde et de mise en valeur (PSMV)
+- SG3 : Servitude d'utilité publique (SUP). Ce sous-goupe est animé par DGALN/DHUP/QV/QV4 : Bureau de la législation de l'urbanisme
+- SG4 : Prescriptions sur les Métadonnées
+- **SG5 : Recommandations pour la symbolisation des documents d'urbanisme**
+- **SG6 : Structuration du règlement d'urbanisme (ou : SG6 SRU)**
+
+## Liens utiles
 - [GT CNIG DDU sur le site du CNIG](https://cnig.gouv.fr/gt-ddu-a2918.html#H_Groupe-de-travail-DDU)
 - [Ressources du GT CNIG DDU](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html) sur le site du CNIG : page de diffusion des standards et des ressources afférentes
 - [Compte-rendus de réunions du GT CNIG DDU](https://cnig.gouv.fr/gt-ddu-a2918.html#H_Reunions) sur le site du CNIG, et [dans ce répertoire](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/r%C3%A9unions).
 - Historique du GT CNIG DDU : [article de A. Clozel paru en 2017 dans le blog SIG & Urba](https://blog.georezo.net/sigurba/2017/05/10/12-ans-deja/#more-1901)
-
-
-Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique spécifique :
-- **SG1** : Suivi et prise en compte des évolutions de l'urbanisme. Relations avec le projet GPU. Ce sous-goupe est animé par DGALN/DHUP/QV/QV3 Bureau métier
-- SG2 : Dématérialisation des Plans de sauvegarde et de mise en valeur (PSMV)
-- SG3 : Servitude d'utilité publique (SUP). Ce sous-goupe est animé par DGALN/DHUP/QV/QV4 Bureau métier de la législation de l'urbanisme
-- SG4 : Prescriptions sur les Métadonnées
-- **SG5** : Recommandations pour la symbolisation des documents d'urbanisme
-- **SG6** : Structuration du règlement d'urbanisme (ou : SG6 SRU)
-
+- Accès au [Github du sous-groupe 5 "Symbolisation"](https://github.com/cnigfr/DDU-SG5-SYMBOLISATION)
+- Accès au [Github du sous-groupe 6 "Structuration du règlement d'urbanisme"](https://github.com/cnigfr/structuration-reglement-urbanisme)
+- Accès à la page ["Structuration du règlement d'urbanisme"](http://cnig.gouv.fr/structuration-des-reglements-d-urbanisme-a25890.html) sur le site du CNIG
+- [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/)
 
 ## Organisation du Github
 
@@ -76,12 +79,16 @@ Les travaux du GT CNIG DDU sont réalisés sous [Licence Ouverte Etalab 2.0](htt
 
 Les données d’urbanisme sont ouvertes et publiées sur le [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/). <div align="right"> <img src="https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif" width="300"> </div>
 
-## Contact
-Pour contacter le GT CNIG DDU : cnig [at] cnig.fr
+## Contacts
+- Pour contacter le CNIG ou le GT CNIG DDU : [Page contact du CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact)
 
-Pour être tenu au courant et/ou participer aux échanges du GT CNIG DDU, merci de [contacter le CNIG](https://cnig.gouv.fr/).
+- Pour une demande d'information sur les **aspects métier urbanisme** : DGALN/DHUP/QV/QV3 Bureau de la planification urbaine et rurale et du cadre de vie :
+<div align="right"> <img src="https://cnig.gouv.fr/IMG/png/230125_mail_qv3.png" width="400"> </div>
 
-Il est également possible de s'abonner à la [lettre d'information du CNIG](http://cnig.gouv.fr/).
+
+- Pour être tenu au courant et/ou participer aux échanges du GT CNIG DDU, merci de [contacter le CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact).
+
+- Il est également possible de s'abonner à la [lettre d'information du CNIG](https://cnig.gouv.fr/info-cnig-la-lettre-d-information-du-cnig-a25957.html).
 
 ## Versions
 - v2022 - octobre 2022 : 2.0.0
