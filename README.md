@@ -96,7 +96,7 @@ Les données d’urbanisme sont ouvertes et publiées sur le [Géoportail de l�
 
 - Pour être tenu au courant et/ou participer aux échanges du GT CNIG DDU : [Page de contact du CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact)
 
-- Pour une demande à la communauté d'utilisateurs des standards d'urbanismes : [Forum dédié sur Géorezo](https://georezo.net/forum/viewtopic.php?id=73022)
+- Pour une demande à la communauté d'utilisateurs des standards d'urbanisme : [Forum dédié sur Géorezo](https://georezo.net/forum/viewtopic.php?id=73022)
 
 - Il est également possible de s'abonner à la [lettre d'information du CNIG](https://cnig.gouv.fr/info-cnig-la-lettre-d-information-du-cnig-a25957.html).
 
