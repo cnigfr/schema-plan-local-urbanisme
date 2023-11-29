@@ -73,6 +73,13 @@ Le standard CNIG PLU évolue en fonction des évolutions réglementaires et de l
 
 N'hésitez pas à utiliser la rubrique [Issues](https://github.com/cnigfr/schema-plan-local-urbanisme/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard Friches, retour utilisateur, etc.
 
+## Versions
+- v2022 - octobre 2022 : 2.0.0
+- v2017d - février 2021 : 1.3.0
+- v2017c - novembre 2019 : 1.2.0
+- v2017b : 1.1.0
+- v2017-12 : 1.0.0
+
 ## Licence - OpenData
 
 Les travaux du GT CNIG DDU sont réalisés sous [Licence Ouverte Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
@@ -80,19 +87,16 @@ Les travaux du GT CNIG DDU sont réalisés sous [Licence Ouverte Etalab 2.0](htt
 Les données d’urbanisme sont ouvertes et publiées sur le [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/). <div align="right"> <img src="https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif" width="300"> </div>
 
 ## Contacts
-- Pour contacter le CNIG ou le GT CNIG DDU : [Page contact du CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact)
+- Pour contacter le CNIG ou le GT CNIG DDU : [Page de contact du CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact)
 
 - Pour une demande d'information sur les **aspects métier urbanisme** : DGALN/DHUP/QV/QV3 Bureau de la planification urbaine et rurale et du cadre de vie :
 <div align="right"> <img src="https://cnig.gouv.fr/IMG/png/230125_mail_qv3.png" width="400"> </div>
 
+- Pour une demande **concernant le Géoportail de l'urbanisme** : [Page de contact du GPU](https://www.geoportail-urbanisme.gouv.fr/contact/)
 
-- Pour être tenu au courant et/ou participer aux échanges du GT CNIG DDU, merci de [contacter le CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact).
+- Pour être tenu au courant et/ou participer aux échanges du GT CNIG DDU : [Page de contact du CNIG](https://cnig.gouv.fr/ressources-dematerialisation-documents-d-urbanisme-a2732.html?page=contact)
+
+- Pour une demande à la communauté d'utilisateurs des standards d'urbanismes : [Forum dédié sur Géorezo](https://georezo.net/forum/viewtopic.php?id=73022)
 
 - Il est également possible de s'abonner à la [lettre d'information du CNIG](https://cnig.gouv.fr/info-cnig-la-lettre-d-information-du-cnig-a25957.html).
 
-## Versions
-- v2022 - octobre 2022 : 2.0.0
-- v2017d - février 2021 : 1.3.0
-- v2017c - novembre 2019 : 1.2.0
-- v2017b : 1.1.0
-- v2017-12 : 1.0.0
