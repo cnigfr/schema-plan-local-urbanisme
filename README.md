@@ -37,11 +37,9 @@ Afin d’optimiser les processus de production et de minimiser les écarts géom
 
 ## Organisation du Github
 
-> C'est en construction !!
-
-* Le répertoire documentation contient les documents utiles au groupe de travail.
-* Le répertoire réunions contient les documents de suivi du groupe de travail
-* Le répertoire standard contient la version courante du standard CNIG PLU
+* Le répertoire [standard](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard) contient la version courante du standard CNIG PLU
+* Le répertoire [réunions](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/r%C3%A9unions) contient les compte-rendus et présentations des réunions du GT CNIG DDU
+* Le répertoire [documentation](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/documentation) contient les documents utiles au groupe de travail.
 
 ## Actualisation et contributions
 
