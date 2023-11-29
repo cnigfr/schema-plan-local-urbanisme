@@ -35,6 +35,23 @@ Le périmètre du modèle conceptuel de données englobe les notions relatives a
 
 Afin d’optimiser les processus de production et de minimiser les écarts géométriques et descriptifs entre versions « papier » et dématérialisée du PLU, le CNIG recommande que la production de la version dématérialisée par numérisation des documents papier soit désormais remplacée par une élaboration directement sous forme numérique, permettant ensuite l’impression papier à partir de ces éléments numériques.
 
+## GT CNIG Dématérialisation des documents d'urbanisme ([GT CNIG DDU](https://cnig.gouv.fr/gt-ddu-a2918.html#H_Groupe-de-travail-DDU))
+
+Le Groupe de travail "Dématérialisation des documents d’urbanisme" ou "GT CNIG DDU" vise à moderniser la production, la numérisation et la publication des documents d'urbanisme juridiquement opposables.
+
+Son fonctionnement est régi par ce [mandat du CNIG](https://cnig.gouv.fr/IMG/pdf/180702_mandat_gt_ddu_cnig.pdf).
+
+Il est piloté par la Direction générale à l'aménagement le logement et la nature (DGALN) du Ministère de la transition écologique, et il est animé par le CEREMA.
+
+Le GT CNIG DDU est réparti en sous-groupe oeuvrant sur des thématiques spécifiques 
+- **SG1** : Suivi et prise en compte des évolutions de l'urbanisme. Sous-goupe animé par Ministère Ecologie/DGALN/DHUP/QV/QV3 Bureau métier
+- SG2 : Dématérialisation des Plans de sauvegarde et de mise en valeur (PSMV)
+- SG3 : Servitude d'utilité publique (SUP). Ce sous-goupe est animé par Ministère Ecologie/DGALN/DHUP/QV/QV4 Bureau métier de l'urbanisme
+- SG4 : Prescriptions sur les Métadonnées
+- **SG5** : Recommandations pour la symbolisation des documents d'urbanisme
+- **SG6** : Structuration du règlement d'urbanisme (ou : SG6 SRU)
+
+
 ## Organisation du Github
 
 * Le répertoire [standard](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard) contient la version courante du standard CNIG PLU
