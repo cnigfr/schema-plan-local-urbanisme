@@ -69,7 +69,7 @@ Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique 
   * [version courante du projet de révision](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20version%20courante%20du%20projet%20de%20r%C3%A9vision)
   * [versions antérieures](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20versions%20ant%C3%A9rieures)
 * Le répertoire [réunions](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/r%C3%A9unions) contient les compte-rendus et présentations des réunions du GT CNIG DDU
-* Le répertoire [documentation](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/documentation) contient les documents utiles au groupe de travail.
+* Le répertoire [documentation](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/documentation) contient les documents utiles au groupe de travail, dont les [présentations et points d'avancement](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/documentation/pr%C3%A9sentations) sur la standardisation
 
 ## Actualisation et contributions
 
