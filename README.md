@@ -58,7 +58,8 @@ Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique 
 - Historique du GT CNIG DDU : [article de A. Clozel paru en 2017 dans le blog SIG & Urba](https://blog.georezo.net/sigurba/2017/05/10/12-ans-deja/#more-1901)
 - Accès au [Github du sous-groupe 5 "Symbolisation"](https://github.com/cnigfr/DDU-SG5-SYMBOLISATION)
 - Accès au [Github du sous-groupe 6 "Structuration du règlement d'urbanisme"](https://github.com/cnigfr/structuration-reglement-urbanisme)
-- Accès à la page ["Structuration du règlement d'urbanisme"](http://cnig.gouv.fr/structuration-des-reglements-d-urbanisme-a25890.html) sur le site du CNIG
+- Accès à la page ["Structuration du règlement d'urbanisme"](http://cnig.gouv.fr/structuration-des-reglements-d-urbanisme-a25890.html) sur le site du CNIG : [mandat du SG6 SRU](https://cnig.gouv.fr/IMG/documents_wordpress/2020/11/200527_Mandat-SG6-du-GT-DDU_v1.3.pdf), [compte-rendus de réunions](https://cnig.gouv.fr/structuration-des-reglements-d-urbanisme-a25890.html#H_Comptes-rendus-de-reunions) et [Présentation globale du projet](https://drive.google.com/file/d/1tt5zETKcVkC5FmRoV7Ln8-ucSNYx-QQx/view?usp=sharing) au séminaire GPU de mai 2023
+- [Version courante du projet de révision de standard PLU/CC](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard)
 - [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/)
 
 ## Organisation du Github
@@ -71,7 +72,9 @@ Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique 
 
 Le standard CNIG PLU évolue en fonction des évolutions réglementaires et de l'expression des besoins des communautés d'utilisateurs.
 
-N'hésitez pas à utiliser la rubrique [Issues](https://github.com/cnigfr/schema-plan-local-urbanisme/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard Friches, retour utilisateur, etc.
+La Version courante du projet de révision de standard PLU/CC est [ici](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard) 
+
+N'hésitez pas à utiliser la rubrique [Issues](https://github.com/cnigfr/schema-plan-local-urbanisme/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard, retour utilisateur, etc.
 
 ## Versions
 - v2022 - octobre 2022 : 2.0.0
@@ -98,5 +101,5 @@ Les données d’urbanisme sont ouvertes et publiées sur le [Géoportail de l�
 
 - Pour une demande à la communauté d'utilisateurs des standards d'urbanisme : [Forum dédié sur Géorezo](https://georezo.net/forum/viewtopic.php?id=73022)
 
-- Il est également possible de s'abonner à la [lettre d'information du CNIG](https://cnig.gouv.fr/info-cnig-la-lettre-d-information-du-cnig-a25957.html).
+- Il est également possible de s'abonner à la [Lettre d'information du CNIG](https://cnig.gouv.fr/info-cnig-la-lettre-d-information-du-cnig-a25957.html).
 
