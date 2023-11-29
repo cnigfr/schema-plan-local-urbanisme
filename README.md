@@ -59,12 +59,15 @@ Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique 
 - Accès au [Github du sous-groupe 5 "Symbolisation"](https://github.com/cnigfr/DDU-SG5-SYMBOLISATION)
 - Accès au [Github du sous-groupe 6 "Structuration du règlement d'urbanisme"](https://github.com/cnigfr/structuration-reglement-urbanisme)
 - Accès à la page ["Structuration du règlement d'urbanisme"](http://cnig.gouv.fr/structuration-des-reglements-d-urbanisme-a25890.html) sur le site du CNIG : [mandat du SG6 SRU](https://cnig.gouv.fr/IMG/documents_wordpress/2020/11/200527_Mandat-SG6-du-GT-DDU_v1.3.pdf), [compte-rendus de réunions](https://cnig.gouv.fr/structuration-des-reglements-d-urbanisme-a25890.html#H_Comptes-rendus-de-reunions) et [Présentation globale du projet](https://drive.google.com/file/d/1tt5zETKcVkC5FmRoV7Ln8-ucSNYx-QQx/view?usp=sharing) au séminaire GPU de mai 2023
-- [Version courante du projet de révision de standard PLU/CC](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard)
+- [Version courante du projet de révision de standard PLU/CC](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20version%20courante%20du%20projet%20de%20r%C3%A9vision)
 - [Géoportail de l’urbanisme](https://www.geoportail-urbanisme.gouv.fr/)
 
 ## Organisation du Github
 
-* Le répertoire [standard](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard) contient la version courante du standard CNIG PLU
+* Le répertoire [standard](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard) contient les différentes versions du standard CNIG PLU/CC :
+  * [version en vigueur publiée par le CNIG](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20version%20en%20vigueur%20publi%C3%A9e)
+  * [version courante du projet de révision](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20version%20courante%20du%20projet%20de%20r%C3%A9vision)
+  * [versions antérieures](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20versions%20ant%C3%A9rieures)
 * Le répertoire [réunions](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/r%C3%A9unions) contient les compte-rendus et présentations des réunions du GT CNIG DDU
 * Le répertoire [documentation](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/documentation) contient les documents utiles au groupe de travail.
 
