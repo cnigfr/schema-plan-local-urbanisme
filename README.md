@@ -80,6 +80,7 @@ La Version courante du projet de révision de standard PLU/CC est [ici](https://
 N'hésitez pas à utiliser la rubrique [Issues](https://github.com/cnigfr/schema-plan-local-urbanisme/issues) pour toute expression de besoin, proposition d'amélioration du projet de standard, retour utilisateur, etc.
 
 ## Versions
+- (prochaine version) v2024-01 - janvier 2024 : 2.1.0
 - ([version en vigueur](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20version%20en%20vigueur%20publi%C3%A9e)) v2022 - octobre 2022 : 2.0.0
 - [v2017d- février 2021](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20versions%20ant%C3%A9rieures/standard%20PLU-CC%20v2017d%20rev.%20f%C3%A9vrier%202021) : 1.3.0
 - [v2017c- novembre 2019 ](https://github.com/cnigfr/schema-plan-local-urbanisme/tree/main/standard/standard%20PLU-CC%20versions%20ant%C3%A9rieures/standard%20PLU-CC%20v2017c%20rev.%202019-11) : 1.2.0
