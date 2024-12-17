@@ -46,7 +46,7 @@ Il est piloté par la Direction générale à l'aménagement le logement et la n
 Le GT CNIG DDU est réparti en sous-groupes oeuvrant chacun sur une thématique spécifique :
 - **SG1 : Suivi et prise en compte des évolutions de l'urbanisme. Relations avec le projet GPU.** Sous-goupe est animé par DGALN/DHUP/QV/QV3 : Bureau de la planification urbaine et rurale et du cadre de vie
 - SG2 : Dématérialisation des Plans de sauvegarde et de mise en valeur (PSMV)
-- **SG3 : Servitude d'utilité publique (SUP). Ce sous-goupe est animé par l'IGN et la DDT38**
+- **SG3 : Servitude d'utilité publique (SUP)**
 - SG4 : Prescriptions sur les Métadonnées
 - **SG5 : Recommandations pour la symbolisation des documents d'urbanisme**
 - **SG6 : Structuration du règlement d'urbanisme (ou : SG6 SRU)**
