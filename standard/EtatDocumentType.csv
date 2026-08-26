@@ -1,0 +1,10 @@
+Code,Libellé,Définition
+01,En cours de procédure,Le document est en cours de procédure quand une procédure a été engagée (prescrite) mais qu’aucune décision d’approbation n'a encore été prise
+02,Arrêté,Le projet de document est finalisé et arrêté par une première décision officielle qui vient valider son périmètre d'application. Le document n'est pas applicable.
+03,Opposable,Le document est approuvé par l'autorité publique compétente et a fait l'objet de toutes les transmissions et publicités nécessaires.
+04,Annulé,"Le document a été annulé par une décision de justice. Le document précédent s'applique sous réserve de n'être pas devenu illégal entre temps. A défaut de PLU ou de carte communale, le règlement national d’urbanisme (RNU) s’applique. "
+05,Remplacé,Le document n'est plus en vigueur et a été remplacé suite à une nouvelle procédure
+06,Abrogé,Le document est annulé par décision de l'autorité publique compétente.
+07,Approuvé,"L'approbation a été prononcée et a donné lieu à une délibération de l’autorité compétente, mais le document n’a pas encore fait l'objet de toutes les transmissions et publicités nécessaires."
+08,Partiellement annulé,Le document a été partiellement annulé par une décision de justice
+09,Caduc,Le document est rendu caduc par la réglementation
