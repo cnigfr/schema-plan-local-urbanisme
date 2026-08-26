@@ -1,0 +1,10 @@
+Code,n°,Libellé
+E,,Élaboration
+MEC,oui,Mise en compatibilité (exemple : MEC3 correspond à la troisième procédure de mise en compatibilité)
+MAJ,oui,Mise à jour des annexes (exemple : MAJ4 correspond à la quatrième procédure de mise à jour)
+M,oui,Modification de droit commun (exemple : M5 correspond à la cinquième procédure de modification)
+MS,oui,Modification simplifiée (exemple : MS1 correspond à la première procédure de modification simplifiée)
+R,,Révision
+RA,oui,"Révision effectuée en application de l'article L. 153-34 du code de l'urbanisme (exemple : RA2 correspond à la seconde procédure de révision dite ""allégée"")"
+RS,oui,"Révision simplifiée. (exemple : RS4 correspond à la quatrième procédure de révision simplifiée). Remarque : la procédure de révision simplifiée n'est plus applicable depuis le 1er janvier 2013. La valeur ""RS"" est maintenue pour les seuls documents dont la dernière évolution serait une révision simplifiée menée avant cette date."
+A,,Abrogation
