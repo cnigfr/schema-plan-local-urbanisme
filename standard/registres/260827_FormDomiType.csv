@@ -1,8 +1,7 @@
 Code,Libellé,Définition
 0,sans objet ou non encore définie dans le règlement,
 100,habitat,Tout type d'habitat
-101,habitat centre-ville,"Petites parcelles étroites – bâti implanté en mitoyen et à l’alignement
-Rues sinueuses et non structurées."
+101,habitat centre-ville,Petites parcelles étroites – bâti implanté en mitoyen et à l’alignement ; Rues sinueuses et non structurées.
 102,habitat centre-villageois,"Tissu compact issu d’une implantation historique - petites parcelles étroites – bâti implanté en mitoyen et/ou à l’alignement. Rues sinueuses et non structurées. Présence d’espaces ou équipements publics fédérateurs, nombre de constructions plus important que les hameaux."
 103,habitat faubourg,Tissu compact et dense en extension du centre ancien. Petites parcelles étroites et souvent allongées (autour de 400 m²) en forme parallélogramme – bâti implanté en mitoyen et/ou à l’alignement.
 104,habitat hameau,Tissu compact issu d’une implantation historique. Parcelles de taille variable – bâti globalement implanté au contact de l’espace public. Rues sinueuses et étroites.
@@ -10,14 +9,13 @@ Rues sinueuses et non structurées."
 106,habitat petits collectifs,"(R+2 max) Bâti discontinu, déconnecté des espaces urbains voisins. Taille des parcelles variables avec une prédominance de grandes parcelles de plus de 1 000 m² – voies de desserte larges – bâti en retrait par rapport aux limites parcellaires."
 107,habitat pavillonnaire dense,"Tissus résidentiel discontinu, dense, organisé et présentant une certaine homogénéité. Petites parcelles en forme homogène – bâti implanté en retrait des limites parcellaires."
 108,habitat pavillonnaire peu dense,"Tissus discontinu, non organisé et hétérogène. Bâti implanté de manière aléatoire – plutôt grandes parcelles - bâti implanté en retrait des limites parcellaires."
-109,habitat maitrisé,"Bâti isolé au milieu d’un espace naturel, agricole ou forestier
-Parcelles de forme variable avec prédominance pour les grandes de plus de 1 000 m² - bâti implanté en retrait des limites parcellaires."
+109,habitat maitrisé,"Bâti isolé au milieu d’un espace naturel, agricole ou forestier. Parcelles de forme variable avec prédominance pour les grandes de plus de 1 000 m² - bâti implanté en retrait des limites parcellaires."
 110,habitat collectif haut,"(R+5 à R+8) Bâti discontinu, déconnecté des espaces urbains voisins. Taille des parcelles variables avec une prédominance de grandes parcelles de plus de 1 000 m² – voies de desserte larges – bâti en retrait par rapport aux limites parcellaires."
 111,habitat collectif de grande hauteur,"(R+9 et plus) Bâti discontinu, déconnecté des espaces urbains voisins. Taille des parcelles variables avec une prédominance de grandes parcelles de plus de 1 000 m² – voies de desserte larges – bâti en retrait par rapport aux limites parcellaires."
 200,activité,Tout type d’activité
 201,activité industrielle / logistique / commerciale,"Zone regroupant des entreprises, usines, entrepôts, surfaces commerciales… visibles et en dehors des zones urbanisées."
 202,activité commerces,Espace regroupant des commerces de proximité. Parcelles de taille et forme variables.
-203,activité bureaux,Ensembles d’immeubles de bureaux privatisés abritant des entreprises et activités tertiaires Parcelles de taille et de formes variables – surface de parkings importante mais espaces verts présents.
+203,activité bureaux,Ensembles d’immeubles de bureaux privatisés abritant des entreprises et activités tertiaires. Parcelles de taille et de formes variables – surface de parkings importante mais espaces verts présents.
 300,mixte habitat / activité,"Secteur où une mixité fonctionnelle est soit recherchée, soit à encadrer."
 400,loisirs et tourisme,Tout type de loisir et de tourisme
 401,loisir parc et jardin,Parcs et jardins en milieu urbain
