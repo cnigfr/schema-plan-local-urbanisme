@@ -17,7 +17,7 @@ Code,Sous-Code,Libellé,Références pour la définition de l’information,Réf
 --,--,Anciennement code 15 est abrogé : les Zones Agricoles Protégées sont à traiter en SUP A9,,Abrogé,,,
 16,0,Site archéologique [Attention : information facultative non exigée par la loi],L522-5 2ème alinéa du code du patrimoine,Pas de référence pour annexion,S,L,P
 17,0,Zone à risque d'exposition au plomb,"L1334-5 code de la santé publique dans sa version antérieure au
-11 août 2004",R151-53 6°,S,,
+11 ao t 2004",R151-53 6°,S,,
 --,--,"Anciennement code 18 (Espaces et milieux à préserver, en fonction de l'intérêt écologique)  est transféré en Prescription 31",L121-23 code de l’urbanisme,R121-4,,,
 19,1,"Zone d'assainissement collectif/non collectif, eaux usées/eaux pluviales, schéma de réseaux eau et assainissement, systèmes d'élimination des déchets",L2224-10 code général des collectivités territoriales,R151-53 8° (zone),S,L,P
 19,2,Emplacements traitement eaux et déchets,,R151-53 8° ,S,L,P
@@ -44,10 +44,9 @@ Code,Sous-Code,Libellé,Références pour la définition de l’information,Réf
 40,2,Zone tampon d’un bien inscrit au patrimoine mondial,,R151-53,S,,
 41,0,Bande de recul le long des axes à grande circulation,L111-6 code de l’urba.,Pas de référence pour l’annexion,S,,
 42,0,"Secteurs délimités par délibération de l'autorité compétente en matière d'urbanisme, dans lesquels certaines opérations sont soumises à autorisation d'urbanisme.",,,S,,
-42,1,secteur dans lequel les travaux de démolition sont soumis à permis de démolir,R421-27,"
-R151-52",S,,
-42,2,Secteur dans lequel l'édification d'une clôture doit être précédée d'une déclaration préalable,R421-12 d,,,,
-42,3,secteur dans lequel les travaux de ravalement sont soumis à déclaration préalable,R421-17-1 e,,,,
+42,1,secteur dans lequel les travaux de démolition sont soumis à permis de démolir,R421-27,R151-52,S,,
+42,2,Secteur dans lequel l'édification d'une clôture doit être précédée d'une déclaration préalable,R421-12 d,R151-52,,,
+42,3,secteur dans lequel les travaux de ravalement sont soumis à déclaration préalable,R421-17-1 e,R151-52,,,
 43,0,Secteur d’obligation légale de débroussaillement (OLD) en prévention des incendies,,R151-53,S,,
 44,1,Préfiguration de zone exposée au recul du trait de côte à l'horizon de 30 ans,L121-22-3,,S,,
 44,2,Préfiguration de zone exposée au recul du trait de côte à un horizon compris entre trente et cent ans,L121-22-3,,S,,
